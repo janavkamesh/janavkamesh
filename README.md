@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Janav Kamesh, Digital Product Engineer
+# Hi there! 👋 I'm Janav Kamesh
 
 I build **conversion-focused digital products** — from pixel-perfect UI/UX design to scalable full-stack development and SEO-optimized web experiences. I turn ideas into products that look great, load fast, and actually grow businesses.
 
@@ -9,10 +9,18 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 ## 🌐 Social Media Presence
 
 <p align="left">
-  <a href="https://youtube.com/@janavkamesh" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://instagram.com/janavkamesh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/janavkamesh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/janavkamesh" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://youtube.com/@janavkamesh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="48" height="48" alt="YouTube"/>
+  </a>
+  <a href="https://instagram.com/janavkamesh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/janavkamesh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/janavkamesh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter"/>
+  </a>
 </p>
 
 ---
@@ -25,15 +33,29 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 
 ## 🛠️ IDE and Tools I Use
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,notion&perline=6)](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,notion" height="48" alt="Dev Tools"/>
+</p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Stitch"/>
-  <img src="https://img.shields.io/badge/Anti--Gravity-FF6B35?style=for-the-badge&logo=rocket&logoColor=white" alt="Anti-Gravity"/>
+  <a href="https://chat.openai.com" target="_blank">
+    <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white&logoSize=auto" height="48" alt="ChatGPT"/>
+  </a>
+  <a href="https://gemini.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white&logoSize=auto" height="48" alt="Gemini"/>
+  </a>
+  <a href="https://claude.ai" target="_blank">
+    <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white&logoSize=auto" height="48" alt="Claude"/>
+  </a>
+  <a href="https://cursor.sh" target="_blank">
+    <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white&logoSize=auto" height="48" alt="Cursor"/>
+  </a>
+  <a href="https://stitch.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Google%20Stitch-4285F4?style=flat-square&logo=google&logoColor=white&logoSize=auto" height="48" alt="Google Stitch"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Anti--Gravity-FF6B35?style=flat-square&logo=rocketdotchat&logoColor=white&logoSize=auto" height="48" alt="Anti-Gravity"/>
+  </a>
 </p>
 
 ---
