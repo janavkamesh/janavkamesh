@@ -9,13 +9,13 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 ## 🌐 Social Media Presence
 
 <p align="left">
-  <a href="https://youtube.com/@janavkamesh" target="blank">
+  <a href="https://youtube.com/@janavkamesh" target="_blank">
     <img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/youtube.svg" width="48" height="48" alt="YouTube"/>
   </a>&nbsp;
-  <a href="https://instagram.com/janavkamesh" target="blank">
+  <a href="https://instagram.com/janavkamesh" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/>
   </a>&nbsp;
-  <a href="https://linkedin.com/in/janavkamesh" target="blank">
+  <a href="https://linkedin.com/in/janavkamesh" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="https://twitter.com/janavkamesh" target="_blank">
