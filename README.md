@@ -11,7 +11,7 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 <p align="left">
   <a href="https://youtube.com/@janavkamesh" target="_blank">
     <img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/youtube.svg" width="48" height="48" alt="YouTube"/>
-  </a>&nbsp;
+  </a>
   <a href="https://instagram.com/janavkamesh" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/>
   </a>&nbsp;
