@@ -10,7 +10,7 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 
 <p align="left">
   <a href="https://youtube.com/@janavkamesh" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&label=" width="48" height="48" alt="YouTube"/>
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48" alt="YouTube"/>
   </a>&nbsp;
   <a href="https://instagram.com/janavkamesh" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/>
@@ -19,7 +19,7 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="https://twitter.com/janavkamesh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter"/>
+    <img src="https://cdn.simpleicons.org/x/000000" width="48" height="48" alt="X"/>
   </a>
 </p>
 
@@ -37,22 +37,22 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 
 <p align="left">
   <a href="https://chat.openai.com" target="_blank">
-    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white&label=" width="48" height="48" alt="ChatGPT"/>
+    <img src="https://cdn.simpleicons.org/openai/74AA9C" width="48" height="48" alt="ChatGPT"/>
   </a>&nbsp;
   <a href="https://gemini.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white&label=" width="48" height="48" alt="Gemini"/>
+    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini"/>
   </a>&nbsp;
   <a href="https://claude.ai" target="_blank">
-    <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white&label=" width="48" height="48" alt="Claude"/>
+    <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" alt="Claude"/>
   </a>&nbsp;
   <a href="https://cursor.sh" target="_blank">
-    <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white&label=" width="48" height="48" alt="Cursor"/>
+    <img src="https://cdn.simpleicons.org/cursor/000000" width="48" height="48" alt="Cursor"/>
   </a>&nbsp;
   <a href="https://stitch.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/Stitch-4285F4?style=flat-square&logo=google&logoColor=white&label=" width="48" height="48" alt="Google Stitch"/>
+    <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google Stitch"/>
   </a>&nbsp;
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/AntiGravity-FF6B35?style=flat-square&logo=rocketdotchat&logoColor=white&label=" width="48" height="48" alt="Anti-Gravity"/>
+    <img src="https://cdn.simpleicons.org/rocket/FF6B35" width="48" height="48" alt="Anti-Gravity"/>
   </a>
 </p>
 
