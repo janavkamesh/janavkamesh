@@ -17,7 +17,7 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
   </a>&nbsp;
   <a href="https://linkedin.com/in/janavkamesh" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
-  </a>&nbsp;
+  </a>
   <a href="https://twitter.com/janavkamesh" target="_blank">
     <img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/x.svg" width="48" height="48" alt="X"/>
   </a>
