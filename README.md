@@ -10,14 +10,14 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 
 <p align="left">
   <a href="https://youtube.com/@janavkamesh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="48" height="48" alt="YouTube"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" width="48" height="48" alt="YouTube"/>
+  </a>&nbsp;
   <a href="https://instagram.com/janavkamesh" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/>
-  </a>
+  </a>&nbsp;
   <a href="https://linkedin.com/in/janavkamesh" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
-  </a>
+  </a>&nbsp;
   <a href="https://twitter.com/janavkamesh" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter"/>
   </a>
@@ -33,28 +33,26 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 
 ## 🛠️ IDE and Tools I Use
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,notion" height="48" alt="Dev Tools"/>
-</p>
+[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,notion&perline=6)](https://skillicons.dev)
 
 <p align="left">
   <a href="https://chat.openai.com" target="_blank">
-    <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white&logoSize=auto" height="48" alt="ChatGPT"/>
-  </a>
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white&logoSize=auto&label=" width="48" height="48" alt="ChatGPT"/>
+  </a>&nbsp;
   <a href="https://gemini.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white&logoSize=auto" height="48" alt="Gemini"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white&logoSize=auto&label=" width="48" height="48" alt="Gemini"/>
+  </a>&nbsp;
   <a href="https://claude.ai" target="_blank">
-    <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white&logoSize=auto" height="48" alt="Claude"/>
-  </a>
+    <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white&logoSize=auto&label=" width="48" height="48" alt="Claude"/>
+  </a>&nbsp;
   <a href="https://cursor.sh" target="_blank">
-    <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white&logoSize=auto" height="48" alt="Cursor"/>
-  </a>
+    <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white&logoSize=auto&label=" width="48" height="48" alt="Cursor"/>
+  </a>&nbsp;
   <a href="https://stitch.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Google%20Stitch-4285F4?style=flat-square&logo=google&logoColor=white&logoSize=auto" height="48" alt="Google Stitch"/>
-  </a>
+    <img src="https://img.shields.io/badge/Stitch-4285F4?style=flat-square&logo=google&logoColor=white&logoSize=auto&label=" width="48" height="48" alt="Google Stitch"/>
+  </a>&nbsp;
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Anti--Gravity-FF6B35?style=flat-square&logo=rocketdotchat&logoColor=white&logoSize=auto" height="48" alt="Anti-Gravity"/>
+    <img src="https://img.shields.io/badge/AntiGravity-FF6B35?style=flat-square&logo=rocket&logoColor=white&logoSize=auto&label=" width="48" height="48" alt="Anti-Gravity"/>
   </a>
 </p>
 
