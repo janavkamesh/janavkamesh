@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Janav Kamesh
+# Hi there! 👋 I'm Janav Kamesh, Digital Product Engineer
 
 I build **conversion-focused digital products** — from pixel-perfect UI/UX design to scalable full-stack development and SEO-optimized web experiences. I turn ideas into products that look great, load fast, and actually grow businesses.
 
