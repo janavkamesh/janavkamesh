@@ -28,7 +28,7 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 [![My Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,notion,firebase,supabase&perline=4)](https://skillicons.dev)
 
 <p align="left">
-  <a href="https://chatgpt.com" target="_blank"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="ChatGPT"/></a><span style="margin-left: 14px;"></span>
+  <a href="https://chatgpt.com" target="_blank"><img src="./icons/chatgpt.png" width="48" height="48" alt="ChatGPT"/></a><span style="margin-left: 14px;"></span>
   <a href="https://claude.ai" target="_blank"><img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude AI"/></a><span style="margin-left: 14px;"></span>
   <a href="https://cursor.sh" target="_blank"><img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor"/></a>
 </p>
