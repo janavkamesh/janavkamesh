@@ -28,9 +28,10 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 [![My Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,notion,firebase,supabase,flutter,androidstudio,netlify&perline=6)](https://skillicons.dev)
 
 <p align="left">
-<a href="https://chatgpt.com" target="_blank"><img src="./icons/chatgpt.png" width="48" height="48" alt="ChatGPT"/></a><span style="margin-left: 14px;"></span>
-<a href="https://claude.ai" target="_blank"><img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude AI"/></a><span style="margin-left: 14px;"></span>
-<a href="https://cursor.sh" target="_blank"><img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor"/></a>
+<a href="https://chatgpt.com" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/chatgpt.svg" width="48" height="48" alt="ChatGPT"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://claude.ai" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/claude-ai.svg" width="48" height="48" alt="Claude AI"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://cursor.sh" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/cursor.svg" width="48" height="48" alt="Cursor"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gemini.google.com" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/gemini.svg" width="48" height="48" alt="Gemini"/></a>
 </p>
 
 ---
