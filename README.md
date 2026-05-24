@@ -9,10 +9,10 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 ## 🌐 Social Media Presence
 
 <p align="left">
-  <a href="https://youtube.com/@janavkamesh" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/youtube.svg" width="48" height="48" alt="YouTube"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/janavkamesh" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/janavkamesh" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/janavkamesh" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/x.svg" width="48" height="48" alt="X"/></a>
+<a href="https://youtube.com/@janavkamesh" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/youtube.svg" width="48" height="48" alt="YouTube"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/janavkamesh" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/janavkamesh" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/janavkamesh" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/x.svg" width="48" height="48" alt="X"/></a>
 </p>
 
 ---
@@ -25,12 +25,12 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 
 ## 🛠️ IDE and Tools I Use
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,notion,firebase,supabase&perline=4)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,notion,firebase,supabase,flutter,androidstudio,netlify&perline=6)](https://skillicons.dev)
 
 <p align="left">
-  <a href="https://chatgpt.com" target="_blank"><img src="./icons/chatgpt.png" width="48" height="48" alt="ChatGPT"/></a><span style="margin-left: 14px;"></span>
-  <a href="https://claude.ai" target="_blank"><img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude AI"/></a><span style="margin-left: 14px;"></span>
-  <a href="https://cursor.sh" target="_blank"><img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor"/></a>
+<a href="https://chatgpt.com" target="_blank"><img src="./icons/chatgpt.png" width="48" height="48" alt="ChatGPT"/></a><span style="margin-left: 14px;"></span>
+<a href="https://claude.ai" target="_blank"><img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude AI"/></a><span style="margin-left: 14px;"></span>
+<a href="https://cursor.sh" target="_blank"><img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor"/></a>
 </p>
 
 ---
