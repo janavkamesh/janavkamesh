@@ -11,34 +11,25 @@
 <br><br>
 
 <!-- ABOUT ME SECTION -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h2 align="left">
-        <img src="https://img.icons8.com/ios-filled/50/a855f7/user.png" width="28" align="center" alt="User Icon" /> About Me
-      </h2>
-      <div align="left">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=160" alt="underline" />
-      </div>
-      <br>
-      <p>Hi! I'm <strong>Janav</strong>, a Digital Product Engineer who loves turning ideas into high-performing, conversion-focused web applications. Whether I'm deploying scalable cloud solutions on AWS or crafting intuitive platforms like financial trackers and restaurant interfaces, my goal is always to deliver pixel-perfect user experiences.</p>
-      <p>I specialize in the complete product lifecycle—from full-stack development and cloud architecture to SEO optimization. I'm constantly optimizing workflows, integrating intelligent tools, and building systems that help businesses and communities grow efficiently.</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px;" alt="Developer illustration" />
-    </td>
-  </tr>
-</table>
+<h3>
+  <img src="https://img.icons8.com/ios-filled/50/a855f7/user.png" width="28" align="absmiddle" alt="User Icon" /> About Me
+</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=100%" alt="underline" />
+<br>
 
-<br><br>
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Developer Coding" style="border-radius: 12px; margin-left: 20px;" />
+
+Hi! I'm **Janav**, a Digital Product Engineer who loves turning ideas into high-performing, conversion-focused web applications. I specialize in delivering pixel-perfect user experiences across the complete product lifecycle.
+
+My focus spans scalable full-stack development and SEO-optimized web experiences. I am passionate about optimizing workflows, integrating intelligent tools, and building systems that help businesses grow efficiently.
+
+<br clear="all" /><br><br>
 
 <!-- CONNECT WITH ME SECTION -->
-<h2 align="left">
-  <img src="https://img.icons8.com/ios-filled/50/a855f7/link--v1.png" width="28" align="center" alt="Link Icon" /> Connect With Me
-</h2>
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=250" alt="underline" />
-</div>
+<h3>
+  <img src="https://img.icons8.com/ios-filled/50/a855f7/link--v1.png" width="28" align="absmiddle" alt="Link Icon" /> Connect With Me
+</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=100%" alt="underline" />
 <br>
 
 <p align="left">
@@ -53,12 +44,10 @@
 <br><br>
 
 <!-- TECH STACK SECTION -->
-<h2 align="left">
-  <img src="https://img.icons8.com/ios-filled/50/a855f7/macbook-laptop-code.png" width="28" align="center" alt="Code Icon" /> Tech Stack
-</h2>
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=175" alt="underline" />
-</div>
+<h3>
+  <img src="https://img.icons8.com/ios-filled/50/a855f7/macbook-laptop-code.png" width="28" align="absmiddle" alt="Code Icon" /> Tech Stack
+</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=100%" alt="underline" />
 <br>
 
 <p align="left">
@@ -70,16 +59,14 @@
 <br><br>
 
 <!-- GITHUB ANALYTICS SECTION -->
-<h2 align="left">
-  <img src="https://img.icons8.com/ios-filled/50/a855f7/bar-chart.png" width="28" align="center" alt="Analytics Icon" /> GitHub Analytics
-</h2>
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=245" alt="underline" />
-</div>
+<h3>
+  <img src="https://img.icons8.com/ios-filled/50/a855f7/bar-chart.png" width="28" align="absmiddle" alt="Analytics Icon" /> GitHub Analytics
+</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=100%" alt="underline" />
 <br>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janavkamesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ff6fd8&text_color=c9d1d9" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavkamesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="150" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janavkamesh&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6fd8&currStreakNum=c9d1d9&currStreakLabel=a855f7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="150" alt="GitHub Streak" />
-</div>
+</p>
