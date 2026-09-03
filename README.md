@@ -11,8 +11,6 @@
 <br><br>
 
 <!-- ABOUT ME SECTION -->
-<div>
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Developer Coding" style="border-radius: 12px; margin-left: 20px;" />
 
   <h3 style="margin: 0; padding: 0;">
     <img src="https://img.icons8.com/ios-filled/50/a855f7/user.png" width="22" height="22" align="absmiddle" alt="User Icon" /> About Me
