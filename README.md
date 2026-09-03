@@ -9,24 +9,24 @@
 </div>
 
 <!-- ABOUT ME SECTION -->
+<h3 style="margin: 0; padding: 0;">
+  <img src="https://img.icons8.com/ios-filled/50/a855f7/user.png" width="22" height="22" align="absmiddle" alt="User Icon" /> About Me<br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" style="margin-top: -6px; display: block;" />
+</h3>
 
-  <h3 style="margin: 0; padding: 0;">
-    <img src="https://img.icons8.com/ios-filled/50/a855f7/user.png" width="22" height="22" align="absmiddle" alt="User Icon" /> About Me
-  </h3>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" style="margin-top: 4px; margin-bottom: 8px;" />
-  
-  Hi! I'm **Janav**, a Digital Product Engineer who loves turning ideas into high-performing, conversion-focused web applications. I specialize in delivering pixel-perfect user experiences across the complete product lifecycle.
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Developer Coding" style="border-radius: 12px; margin-left: 20px;" />
 
-  My focus spans scalable full-stack development and SEO-optimized web experiences. I am passionate about optimizing workflows, integrating intelligent tools, and building systems that help businesses grow efficiently.
-</div>
+Hi! I'm **Janav**, a Digital Product Engineer who loves turning ideas into high-performing, conversion-focused web applications. I specialize in delivering pixel-perfect user experiences across the complete product lifecycle.
+
+My focus spans scalable full-stack development and SEO-optimized web experiences. I am passionate about optimizing workflows, integrating intelligent tools, and building systems that help businesses grow efficiently.
 
 <br clear="all" /><br>
 
 <!-- CONNECT WITH ME SECTION -->
 <h3 style="margin: 0; padding: 0;">
-  <img src="https://img.icons8.com/ios-filled/50/a855f7/link--v1.png" width="22" height="22" align="absmiddle" alt="Link Icon" /> Connect With Me
+  <img src="https://img.icons8.com/ios-filled/50/a855f7/link--v1.png" width="22" height="22" align="absmiddle" alt="Link Icon" /> Connect With Me<br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" style="margin-top: -6px; display: block;" />
 </h3>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" style="margin-top: 4px; margin-bottom: 12px;" />
 
 <p align="left">
   <a href="mailto:contact@janavkamesh.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,9 +41,9 @@
 
 <!-- TECH STACK SECTION -->
 <h3 style="margin: 0; padding: 0;">
-  <img src="https://img.icons8.com/ios-filled/50/a855f7/source-code.png" width="22" height="22" align="absmiddle" alt="Code Icon" /> Tech Stack
+  <img src="https://img.icons8.com/ios-filled/50/a855f7/source-code.png" width="22" height="22" align="absmiddle" alt="Code Icon" /> Tech Stack<br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" style="margin-top: -6px; display: block;" />
 </h3>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" style="margin-top: 4px; margin-bottom: 12px;" />
 
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,tailwind,postgres,nextjs,vscode" alt="Tech Stack Line 1" /></a><br>
@@ -55,9 +55,9 @@
 
 <!-- GITHUB ANALYTICS SECTION -->
 <h3 style="margin: 0; padding: 0;">
-  <img src="https://img.icons8.com/ios-filled/50/a855f7/bar-chart.png" width="22" height="22" align="absmiddle" alt="Analytics Icon" /> GitHub Analytics
+  <img src="https://img.icons8.com/ios-filled/50/a855f7/bar-chart.png" width="22" height="22" align="absmiddle" alt="Analytics Icon" /> GitHub Analytics<br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" style="margin-top: -6px; display: block;" />
 </h3>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" style="margin-top: 4px; margin-bottom: 16px;" />
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=janavkamesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ff6fd8&text_color=c9d1d9" height="100" alt="GitHub Stats" />&nbsp;
