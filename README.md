@@ -8,12 +8,12 @@
   </a>
 </div>
 
-<!-- ABOUT ME SECTION -->
 <h3 style="margin: 0; padding: 0;">
   <img src="https://img.icons8.com/ios-filled/50/a855f7/user.png" width="22" height="22" align="absmiddle" alt="User Icon" /> About Me<br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" style="margin-top: -6px; display: block;" />
 </h3>
 
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Developer Coding Animation" style="border-radius: 12px; margin-left: 20px; margin-top: 10px;" />
 
 Hi! I'm **Janav**, a Digital Product Engineer who loves turning ideas into high-performing, conversion-focused web applications. I specialize in delivering pixel-perfect user experiences across the complete product lifecycle.
 
