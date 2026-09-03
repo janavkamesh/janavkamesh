@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Janav Kamesh, Digital Product Engineer
+# Hi there! 👋 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF5722&center=false&vCenter=true&width=600&lines=I'm+Janav+Kamesh;Digital+Product+Engineer" alt="Typing SVG" /></a>
 
 I build **conversion-focused digital products** — from pixel-perfect UI/UX design to scalable full-stack development and SEO-optimized web experiences. I turn ideas into products that look great, load fast, and actually grow businesses.
 
