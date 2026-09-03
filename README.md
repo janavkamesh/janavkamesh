@@ -62,4 +62,4 @@ My focus spans scalable full-stack development and SEO-optimized web experiences
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=janavkamesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ff6fd8&text_color=c9d1d9" height="150" alt="GitHub Stats" />&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janavkamesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="150" alt="Top Languages" />
 </p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janavkamesh&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6fd8&currStreakNum=c9d1d9&currStreakLabel=a855f7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="150" alt="GitHub Streak" />&nbsp;
+ <center> <img src="https://github-readme-streak-stats.herokuapp.com/?user=janavkamesh&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6fd8&currStreakNum=c9d1d9&currStreakLabel=a855f7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="150" alt="GitHub Streak" />&nbsp;  </center>
