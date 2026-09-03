@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <!-- ABOUT ME SECTION -->
 
