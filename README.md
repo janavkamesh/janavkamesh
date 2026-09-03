@@ -62,7 +62,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" style="margin-top: 4px; margin-bottom: 16px;" />
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=janavkamesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ff6fd8&text_color=c9d1d9" height="130" alt="GitHub Stats" />&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janavkamesh&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6fd8&currStreakNum=c9d1d9&currStreakLabel=a855f7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="130" alt="GitHub Streak" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janavkamesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="130" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=janavkamesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ff6fd8&text_color=c9d1d9" height="110" alt="GitHub Stats" />&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janavkamesh&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6fd8&currStreakNum=c9d1d9&currStreakLabel=a855f7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="110" alt="GitHub Streak" />&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janavkamesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="110" alt="Top Languages" />
 </p>
