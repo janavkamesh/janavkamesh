@@ -1,9 +1,11 @@
-# Hi there! 👋 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF5722&center=false&vCenter=true&width=600&lines=I'm+Janav+Kamesh;Digital+Product+Engineer" alt="Typing SVG" /></a>
+# Hi there, I am Janav Kamesh
+**Digital Product Engineer**
+
+![Profile Views](https://komarev.com/ghpvc/?username=janavkamesh&label=Profile+Views&color=blueviolet&style=flat)
+![Repositories](https://img.shields.io/github/public-repos/janavkamesh?label=Repositories&color=ff99cc&style=flat)
+![Followers](https://img.shields.io/github/followers/janavkamesh?label=Followers&color=6699ff&style=flat)
 
 I build **conversion-focused digital products** — from pixel-perfect UI/UX design to scalable full-stack development and SEO-optimized web experiences. I turn ideas into products that look great, load fast, and actually grow businesses.
-
-> Self-taught developer | Full-Stack | UI/UX | SEO | Open to Collaboration
 
 ---
 
@@ -32,11 +34,7 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janavkamesh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janavkamesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janavkamesh&show_icons=true&theme=radical&hide_border=true)](https://github.com/janavkamesh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janavkamesh&layout=compact&theme=radical&hide_border=true)](https://github.com/janavkamesh)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janavkamesh&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janavkamesh&theme=radical&hide_border=true)](https://github.com/janavkamesh)
