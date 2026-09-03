@@ -6,13 +6,15 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 
 ---
 
-## 🌐 Social Media Presence
+## 🌐 Connect with me
 
 <p align="left">
 <a href="https://youtube.com/@janavkamesh" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/youtube.svg" width="48" height="48" alt="YouTube"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/janavkamesh" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/janavkamesh" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/janavkamesh" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/x.svg" width="48" height="48" alt="X"/></a>
+<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="YOUR_LEETCODE_LINK" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="48" height="48" alt="LeetCode"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/janavkamesh" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/x.svg" width="48" height="48" alt="X"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/janavkamesh" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/></a>
 </p>
 
 ---
@@ -39,9 +41,3 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 <a href="https://cursor.sh" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/cursor.svg" width="45" height="45" alt="Cursor"/></a>&nbsp;&nbsp;
 <a href="https://gemini.google.com" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/gemini.svg" width="45" height="45" alt="Gemini"/></a>
 </p>
-
----
-
-## 📫 Let's Connect
-
-Feel free to reach out if you want to collaborate, build something great, or just say hi!
