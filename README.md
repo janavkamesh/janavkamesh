@@ -8,22 +8,37 @@
   </a>
 </div>
 
-<br>
+<br><br>
 
-<div align="center">
-  I build **conversion-focused digital products** — from pixel-perfect UI/UX design to scalable full-stack development and SEO-optimized web experiences. I turn ideas into products that look great, load fast, and actually grow businesses.
-</div>
+<!-- ABOUT ME SECTION -->
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2 align="left">
+        <img src="https://img.icons8.com/ios-filled/50/a855f7/user.png" width="28" align="center" alt="User Icon" /> About Me
+      </h2>
+      <div align="left">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=160" alt="underline" />
+      </div>
+      <br>
+      <p>Hi! I'm <strong>Janav</strong>, a Digital Product Engineer who loves turning ideas into high-performing, conversion-focused web applications. Whether I'm deploying scalable cloud solutions on AWS or crafting intuitive platforms like financial trackers and restaurant interfaces, my goal is always to deliver pixel-perfect user experiences.</p>
+      <p>I specialize in the complete product lifecycle—from full-stack development and cloud architecture to SEO optimization. I'm constantly optimizing workflows, integrating intelligent tools, and building systems that help businesses and communities grow efficiently.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px;" alt="Developer illustration" />
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
 <!-- CONNECT WITH ME SECTION -->
-<div>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" align="center" alt="Handshake" />
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=26&color=a855f7&center=false&vCenter=true&repeat=false&width=300&lines=Connect+With+Me" align="center" alt="Connect With Me" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=270" alt="underline" />
+<h2 align="left">
+  <img src="https://img.icons8.com/ios-filled/50/a855f7/link--v1.png" width="28" align="center" alt="Link Icon" /> Connect With Me
+</h2>
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=250" alt="underline" />
 </div>
-
 <br>
 
 <p align="left">
@@ -38,13 +53,12 @@
 <br><br>
 
 <!-- TECH STACK SECTION -->
-<div>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" align="center" alt="Laptop" />
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=26&color=a855f7&center=false&vCenter=true&repeat=false&width=300&lines=Tech+Stack" align="center" alt="Tech Stack" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=190" alt="underline" />
+<h2 align="left">
+  <img src="https://img.icons8.com/ios-filled/50/a855f7/macbook-laptop-code.png" width="28" align="center" alt="Code Icon" /> Tech Stack
+</h2>
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=175" alt="underline" />
 </div>
-
 <br>
 
 <p align="left">
@@ -56,45 +70,16 @@
 <br><br>
 
 <!-- GITHUB ANALYTICS SECTION -->
-<div>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" align="center" alt="Chart" />
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=26&color=a855f7&center=false&vCenter=true&repeat=false&width=300&lines=GitHub+Analytics" align="center" alt="GitHub Analytics" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=280" alt="underline" />
+<h2 align="left">
+  <img src="https://img.icons8.com/ios-filled/50/a855f7/bar-chart.png" width="28" align="center" alt="Analytics Icon" /> GitHub Analytics
+</h2>
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=245" alt="underline" />
 </div>
-
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janavkamesh&theme=2077" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janavkamesh&theme=2077" height="170"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janavkamesh&hide_border=true&background=0d001a&ring=ff6fd8&fire=f97316&currStreakLabel=ff6fd8&sideLabels=a855f7&dates=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janavkamesh&bg_color=0d001a&color=ff6fd8&line=a855f7&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
-</div>
-
-<br><br>
-
-<!-- CONTRIBUTION SNAKE SECTION -->
-<div>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" align="center" alt="Snake" />
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=26&color=a855f7&center=false&vCenter=true&repeat=false&width=350&lines=Contribution+Snake" align="center" alt="Contribution Snake" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=310" alt="underline" />
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janavkamesh/janavkamesh/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janavkamesh/janavkamesh/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=janavkamesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ff6fd8&text_color=c9d1d9" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavkamesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janavkamesh&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6fd8&currStreakNum=c9d1d9&currStreakLabel=a855f7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="150" alt="GitHub Streak" />
 </div>
