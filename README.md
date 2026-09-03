@@ -37,7 +37,7 @@
   <a href="https://instagram.com/janavkamesh" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/janavkamesh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="48" height="48" alt="LeetCode"/></a>
 </p>
-
+  <br>
 <!-- TECH STACK SECTION -->
 <h3>
   <img src="https://img.icons8.com/ios-filled/50/a855f7/macbook-laptop-code.png" width="28" align="absmiddle" alt="Code Icon" /> Tech Stack
@@ -49,7 +49,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,figma,vercel,notion,supabase,flutter,androidstudio,cloudflare" alt="Tech Stack Line 2" /></a>
   <a href="https://n8n.io" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/n8n.svg" width="48" height="48" alt="n8n"/></a>
 </p>
-
+  <br>
 <!-- GITHUB ANALYTICS SECTION -->
 <h3>
   <img src="https://img.icons8.com/ios-filled/50/a855f7/bar-chart.png" width="28" align="absmiddle" alt="Analytics Icon" /> GitHub Analytics
