@@ -10,14 +10,10 @@
 
 
 <!-- ABOUT ME SECTION -->
-<div>
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Developer Coding" style="border-radius: 12px; margin-left: 20px;" />
-
   <h3>
     <img src="https://img.icons8.com/ios-filled/50/a855f7/user.png" width="28" align="absmiddle" alt="User Icon" /> About Me
   </h3>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" />
-  <br>
   
   Hi! I'm **Janav**, a Digital Product Engineer who loves turning ideas into high-performing, conversion-focused web applications. I specialize in delivering pixel-perfect user experiences across the complete product lifecycle.
   
@@ -26,14 +22,13 @@
   My focus spans scalable full-stack development and SEO-optimized web experiences. I am passionate about optimizing workflows, integrating intelligent tools, and building systems that help businesses grow efficiently.
 </div>
 
-<br clear="all" /><br><br>
+<br clear="all" />
 
 <!-- CONNECT WITH ME SECTION -->
 <h3>
   <img src="https://img.icons8.com/ios-filled/50/a855f7/link--v1.png" width="28" align="absmiddle" alt="Link Icon" /> Connect With Me
 </h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" />
-<br>
 
 <p align="left">
   <a href="mailto:contact@janavkamesh.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,14 +39,11 @@
   <a href="https://leetcode.com/janavkamesh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="48" height="48" alt="LeetCode"/></a>
 </p>
 
-<br>
-
 <!-- TECH STACK SECTION -->
 <h3>
   <img src="https://img.icons8.com/ios-filled/50/a855f7/macbook-laptop-code.png" width="28" align="absmiddle" alt="Code Icon" /> Tech Stack
 </h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" />
-<br>
 
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,tailwind,postgres,nextjs,vscode" alt="Tech Stack Line 1" /></a><br>
@@ -59,14 +51,11 @@
   <a href="https://n8n.io" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/n8n.svg" width="48" height="48" alt="n8n"/></a>
 </p>
 
-<br>
-
 <!-- GITHUB ANALYTICS SECTION -->
 <h3>
   <img src="https://img.icons8.com/ios-filled/50/a855f7/bar-chart.png" width="28" align="absmiddle" alt="Analytics Icon" /> GitHub Analytics
 </h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" />
-<br>
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=janavkamesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ff6fd8&text_color=c9d1d9" height="120" alt="GitHub Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=janavkamesh&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6fd8&currStreakNum=c9d1d9&currStreakLabel=a855f7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="120" alt="GitHub Streak" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janavkamesh&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="120" alt="Top Languages" />
