@@ -27,8 +27,7 @@
 <!-- CONNECT WITH ME SECTION -->
 <h3>
   <img src="https://img.icons8.com/ios-filled/50/a855f7/link--v1.png" width="28" align="absmiddle" alt="Link Icon" /> Connect With Me
-</h3>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" />
+</h3> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" />
 
 <p align="left">
   <a href="mailto:contact@janavkamesh.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
