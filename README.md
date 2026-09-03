@@ -8,8 +8,6 @@
   </a>
 </div>
 
-<br>
-
 <!-- ABOUT ME SECTION -->
 
   <h3 style="margin: 0; padding: 0;">
