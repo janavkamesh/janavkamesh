@@ -1,9 +1,14 @@
-# Hi there, I am Janav Kamesh
-**Digital Product Engineer**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Janav%20Kamesh&fontSize=60&fontAlignY=35&desc=Digital%20Product%20Engineer&descAlignY=55&descSize=25" alt="Header Banner" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=janavkamesh&label=Profile+Views&color=blueviolet&style=flat)
-![Repositories](https://img.shields.io/github/public-repos/janavkamesh?label=Repositories&color=ff99cc&style=flat)
-![Followers](https://img.shields.io/github/followers/janavkamesh?label=Followers&color=6699ff&style=flat)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Building+conversion-focused+products+🚀;Designing+intuitive+UI%2FUX+experiences+✨;Architecting+scalable+full-stack+systems+💻;Optimizing+web+performance+%26+SEO+🔍" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
 
 I build **conversion-focused digital products** — from pixel-perfect UI/UX design to scalable full-stack development and SEO-optimized web experiences. I turn ideas into products that look great, load fast, and actually grow businesses.
 
@@ -34,7 +39,11 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 
 ## 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janavkamesh&show_icons=true&theme=radical&hide_border=true)](https://github.com/janavkamesh)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janavkamesh&layout=compact&theme=radical&hide_border=true)](https://github.com/janavkamesh)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janavkamesh&theme=radical&hide_border=true)](https://github.com/janavkamesh)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janavkamesh&show_icons=true&theme=radical&hide_border=true" alt="Janav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janavkamesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janavkamesh&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
