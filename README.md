@@ -22,21 +22,21 @@ I build **conversion-focused digital products** — from pixel-perfect UI/UX des
 
 ## 💻 Tech Stack
 
-[![My Tech Stack](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,tailwind,postgres,nextjs,vscode,github,figma,vercel,notion,supabase,flutter,androidstudio,cloudflare&perline=9)](https://skillicons.dev)
-
 <p align="left">
-<a href="https://n8n.io" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/n8n.svg" width="48" height="48" alt="n8n"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,tailwind,postgres,nextjs,vscode" alt="Tech Stack Line 1" /></a><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,figma,vercel,notion,supabase,flutter,androidstudio,cloudflare" alt="Tech Stack Line 2" /></a>
+  <a href="https://n8n.io" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/n8n.svg" width="48" height="48" alt="n8n"/></a>
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janavkamesh&show_icons=true&theme=radical&hide_border=true" alt="Janav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavkamesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janavkamesh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janavkamesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janavkamesh&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
