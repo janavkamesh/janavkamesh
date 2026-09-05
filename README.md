@@ -17,7 +17,7 @@ Hi! I'm **Janav**, a Digital Product Engineer who loves turning ideas into high-
 
 My focus spans scalable full-stack development and SEO-optimized web experiences. I am passionate about optimizing workflows, integrating intelligent tools, and building systems that help businesses grow efficiently.
 
-<br clear="all" /><br>
+<br clear="all" />
 
 <!-- CONNECT WITH ME SECTION -->
 <h3 style="margin: 0; padding: 0;">
