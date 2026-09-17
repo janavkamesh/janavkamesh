@@ -43,8 +43,8 @@ My focus spans scalable full-stack development and SEO-optimized web experiences
 </h3>
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,tailwind,postgres,nextjs,vscode,github,figma" alt="Tech Stack Line 1" /></a><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel,notion,supabase,flutter,androidstudio,cloudflare,docker,fastapi" alt="Tech Stack Line 2" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,tailwind,postgres,nextjs,vscode,github" alt="Tech Stack Line 1" /></a><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,vercel,notion,supabase,flutter,androidstudio,cloudflare,docker,fastapi" alt="Tech Stack Line 2" /></a>
   <a href="https://n8n.io" target="_blank"><img src="https://raw.githubusercontent.com/janavkamesh/janavkamesh/main/icons/n8n.svg" width="48" height="48" alt="n8n"/></a>
 </p>
 
