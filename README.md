@@ -13,9 +13,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&width=400" alt="underline" style="margin-top: -6px; display: block;" />
 </h3>
 
-Hi! I'm **Janav**, a Digital Product Engineer who loves turning ideas into high-performing, conversion-focused web applications. I specialize in delivering pixel-perfect user experiences across the complete product lifecycle.
+I am a Digital Product Engineer. I started out focusing on UI/UX design, SEO, and building fast, conversion-focused websites to help businesses grow. While I still care deeply about creating clean, pixel-perfect interfaces, my work has naturally evolved into full-stack software engineering and AI integration.
 
-My focus spans scalable full-stack development and SEO-optimized web experiences. I am passionate about optimizing workflows, integrating intelligent tools, and building systems that help businesses grow efficiently.
+Right now, I spend my time building systems that automate heavy workflows. I work primarily with Next.js, React, FastAPI, and Docker. Most recently, I've been focused on engineering AI-agent pipelines—like automated machine learning platforms—that replace manual coding with intelligent, autonomous systems.
 
 <br clear="all" />
 
